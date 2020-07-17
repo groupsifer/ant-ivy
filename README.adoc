@@ -22,6 +22,8 @@
 
 == What is Apache Ivy?
 
+[![Build Status](http://myjenkins:8080/buildStatus/icon?job=first-job)](http://myjenkins:8080/job/first-job/)
+
 Apache Ivy is a tool for managing (recording, tracking, resolving and reporting) 
 project dependencies. 
 It is characterized by the following:
